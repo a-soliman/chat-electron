@@ -1,0 +1,30 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat app with Elecetron, Node, React.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "chat",
+    "app",
+    "electron",
+    "node",
+    "react",
+    "REST",
+    "mongodb"
+  ],
+  "author": "Ahmed Soliman",
+  "license": "ISC",
+  "dependencies": {
+    "laravel-mix": "^4.0.15",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.32.0"
+  },
+  "devDependencies": {
+    "electron": "^5.0.1"
+  }
+}
